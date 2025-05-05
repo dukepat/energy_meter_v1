@@ -7,10 +7,10 @@
 #include <time.h>
 
 // WiFi credentials
-const char* ssid1 = "TECNO SPARK 7Q";
-const char* password1 = "38533853";
-const char* ssid2 = "RS Lab Wifi";
-const char* password2 = "rslab@wifi";
+const char* ssid1 = "Network1";
+const char* password1 = "Password1";
+const char* ssid2 = "Network2";
+const char* password2 = "Password2";
 
 // NTP Server settings
 const char* ntpServer = "pool.ntp.org";
